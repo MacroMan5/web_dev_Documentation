@@ -1,0 +1,109 @@
+# Web.dev Documentation Repository - LLM Search Guide
+
+## Repository Overview
+This repository contains comprehensive web development documentation extracted from web.dev. This is Google's platform for modern web development best practices, performance optimization, and progressive web app development.
+
+## Content Categories
+
+### 1. Learning (`learn/`)
+- **Fundamentals**: HTML, CSS, JavaScript basics
+- **Modern Web Development**: Progressive web apps, performance
+- **Advanced Techniques**: Complex implementations and optimizations
+- **Best Practices**: Industry standards and recommendations
+
+### 2. Performance (`performance/`, `vitals/`)
+- **Core Web Vitals**: LCP, FID, CLS optimization
+- **Loading Performance**: Resource optimization, caching strategies
+- **Runtime Performance**: JavaScript optimization, rendering performance
+- **Measurement**: Analytics, monitoring, profiling tools
+
+### 3. Progressive Web Apps (`progressive-web-apps/`)
+- **PWA Fundamentals**: Service workers, web app manifest
+- **Offline Functionality**: Caching strategies, offline patterns
+- **Device Integration**: Push notifications, background sync
+- **Installation**: App-like experiences on mobile and desktop
+
+### 4. Accessibility (`accessibility/`)
+- **A11y Guidelines**: WCAG compliance and inclusive design
+- **Screen Reader Support**: Semantic markup and ARIA
+- **Keyboard Navigation**: Focus management and interaction
+- **Testing**: Accessibility auditing and validation
+
+### 5. Articles & Insights (`articles/`)
+- **Case Studies**: Real-world implementation examples
+- **Feature Updates**: New web platform features
+- **Industry Trends**: Modern development approaches
+
+### 6. Tools & Measurement (`measure/`)
+- **Lighthouse**: Performance auditing and optimization
+- **DevTools**: Chrome DevTools usage and debugging
+- **Analytics**: Performance monitoring and user experience metrics
+
+## Search Strategies for LLM Agents
+
+### 1. Performance Optimization
+**Query patterns:**
+- "Core Web Vitals [metric]" → Look for LCP, FID, CLS optimization
+- "Performance [aspect]" → Search for loading, runtime, or rendering perf
+- "Optimize [resource]" → Find image, CSS, JavaScript optimization guides
+
+### 2. Progressive Web Apps
+**Query patterns:**
+- "PWA [feature]" → Look for service worker, manifest, or offline docs
+- "Offline [functionality]" → Search for caching and offline patterns
+- "Web app [capability]" → Find device integration and installation guides
+
+### 3. Modern Development Practices
+**Query patterns:**
+- "Modern [technology]" → Look for latest web standards and approaches
+- "Best practices [area]" → Search for recommended implementations
+- "[Framework] performance" → Find framework-specific optimization guides
+
+### 4. Accessibility Implementation
+**Query patterns:**
+- "Accessibility [technique]" → Look for a11y implementation guides
+- "WCAG [guideline]" → Search for specific accessibility standards
+- "Screen reader [support]" → Find assistive technology compatibility
+
+## Search Tips for AI Agents
+
+1. **Performance Focus**: Prioritize user experience and site speed
+2. **Modern Standards**: Look for cutting-edge web platform features
+3. **Measurement Driven**: Use Lighthouse and analytics for validation
+4. **Progressive Enhancement**: Build with accessibility and performance first
+5. **Real-world Application**: Apply recommendations to actual projects
+
+## Common Search Scenarios
+
+### Site Performance Audit
+- Core Web Vitals assessment and improvement
+- Loading performance optimization
+- Runtime performance debugging
+
+### PWA Development
+- Service worker implementation
+- Offline-first design patterns
+- App installation and engagement
+
+### Accessibility Compliance
+- WCAG 2.1 AA compliance strategies
+- Screen reader optimization
+- Keyboard navigation implementation
+
+### Modern Web Development
+- Latest CSS and JavaScript features
+- Framework-agnostic best practices
+- Cross-browser compatibility techniques
+
+### User Experience Optimization
+- Performance impact on user experience
+- Mobile-first development approaches
+- Conversion optimization through performance
+
+## Integration Notes for MCP Server
+- Google's authoritative web development guidance
+- Performance-focused approach throughout
+- Real-world case studies and examples
+- Cutting-edge web platform features
+- Measurement and analytics integration
+- Progressive web app expertise
